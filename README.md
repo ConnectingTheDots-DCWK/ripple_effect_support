@@ -40,7 +40,7 @@ A few things worth knowing before filing anything:
   panel inside the app asks the interpreter what it can do rather than
   describing it, and it is the authority — not this paragraph.
 - **The node editor is public.**
-  [`fl_nodes_v2`](https://github.com/WilliamKarolDiCioccio/fl_nodes_v2) is a
+  [`fl_nodes_v2`](https://github.com/ConnectingTheDots-DCWK/fl_nodes_v2) is a
   standalone package developed alongside the app, and it takes issues and pull
   requests of its own. If what is wrong is the canvas — panning, wiring,
   selection, undo — it may belong there instead.
