@@ -81,9 +81,15 @@ reverse engineer the software itself.
 
 The licence is the **End-User Licence Agreement**, published at
 **[legal.ripplefx.app/eula](https://legal.ripplefx.app/eula/)**. That is the
-authoritative copy; [LICENSE](LICENSE) in this repository is a copy of version
-1.0, kept so that a checkout has the terms without a network. It replaces the
-short *Ripple Effect Licence* that this repository used to carry.
+authoritative copy, and [LICENSE](LICENSE) in this repository points at it
+rather than repeating it — a copy here is one more thing to fall behind. It
+replaces the short *Ripple Effect Licence* that this repository used to carry,
+which is still published for the builds it governs, at
+[legal.ripplefx.app/v/ripple-effect-licence-1.0](https://legal.ripplefx.app/v/ripple-effect-licence-1.0/).
+
+**Building the engine into your own software** is a different licence: the
+[Runtime Licence](https://legal.ripplefx.app/runtime/), which is free and lets
+you redistribute the engine as part of your product.
 
 The other documents:
 [Terms of Service](https://legal.ripplefx.app/terms/) for the website and the
