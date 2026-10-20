@@ -18,11 +18,11 @@ questions every report otherwise starts with.
 
 ## What Ripple Effect is
 
-A desktop application for writing interactive stories as graphs, inspired by
-[ArcWeave](https://arcweave.com). You lay passages out on a canvas, wire each
-choice to what it leads to, and press play to walk the result — with a visual
-scripting layer around it (loops, conditions, arithmetic, random rolls and
-restricted Python) so a story can compute as well as branch.
+A desktop application for writing interactive stories as graphs. You lay
+passages out on a canvas, wire each choice to what it leads to, and press play
+to walk the result — with a visual scripting layer around it (loops,
+conditions, arithmetic, random rolls and restricted Python) so a story can
+compute as well as branch.
 
 It is aimed at tabletop prep, game design documents, quest and dialogue trees,
 and anything else where the interesting part of a document is the paths through
